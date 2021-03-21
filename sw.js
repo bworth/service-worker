@@ -1,4 +1,4 @@
-const CACHE_NAME = 'cache-v1.2.1';
+const CACHE_NAME = 'cache-v1.0.0';
 const PRECACHE_URLS = ['index.html', './', './?source=pwa'];
 
 function responseFallback(title) {
